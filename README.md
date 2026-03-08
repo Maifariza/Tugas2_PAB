@@ -59,7 +59,7 @@ Aplikasi ini dibuat menggunakan Flutter dengan bantuan Provider sebagai state ma
 
 ---
 
-## Struktur Program
+## 🧷 Struktur Program Aplikasi Pendaftaran Event Kampus
 
 Struktur program pada aplikasi ini mengikuti standar proyek Flutter. Folder seperti android, ios, web, windows, macos, dan linux merupakan folder bawaan Flutter yang digunakan untuk mendukung aplikasi agar dapat dijalankan di berbagai platform. Sementara itu, seluruh kode utama aplikasi yang dibuat berada di dalam folder lib.
 
@@ -83,6 +83,12 @@ Di dalam folder lib, terdapat beberapa folder utama yang mengatur struktur aplik
 - Main.dart
 
   File main.dart merupakan file utama yang menjadi titik awal aplikasi dijalankan. Pada file ini juga dilakukan konfigurasi Provider serta pengaturan navigasi antar halaman dalam aplikasi.
+
+---
+
+## Penjelasan Alur Program
+
+
 
 Struktur program ini dibuat dengan memisahkan antara model data, halaman tampilan, dan pengelolaan state, sehingga kode aplikasi menjadi lebih rapi, terorganisir, dan mudah untuk dipahami maupun dikembangkan lebih lanjut.
 
