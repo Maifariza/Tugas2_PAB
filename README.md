@@ -59,7 +59,7 @@ Aplikasi ini dibuat menggunakan Flutter dengan bantuan Provider sebagai state ma
 
 ---
 
-## Struktur Program
+## Struktur Program 📁
 
 Struktur program pada aplikasi ini mengikuti standar proyek Flutter. Folder seperti android, ios, web, windows, macos, dan linux merupakan folder bawaan Flutter yang digunakan untuk mendukung aplikasi agar dapat dijalankan di berbagai platform. Sementara itu, seluruh kode utama aplikasi yang dibuat berada di dalam folder lib.
 
@@ -99,51 +99,51 @@ Di dalam folder lib, terdapat beberapa folder utama yang mengatur struktur aplik
 ---
 
 
-## Tampilan Aplikasi
+## Tampilan Aplikasi 💻
 
-- Halaman Form Registrasi
+- **Halaman Form Registrasi**
 
   <img width="1906" height="945" alt="image" src="https://github.com/user-attachments/assets/7d5fe52a-5cfb-47a6-9823-b20027b27e25" />
 
 
-- Halaman Daftar Peserta
+- **Halaman Daftar Peserta**
 
   <img width="1905" height="943" alt="Screenshot 2026-03-09 041624" src="https://github.com/user-attachments/assets/66264cbf-5c84-4cbe-a8e5-b4357eba3cbc" />
 
 
-- Halaman Detail Peserta
+- **Halaman Detail Peserta**
 
   <img width="1903" height="944" alt="Screenshot 2026-03-09 041641" src="https://github.com/user-attachments/assets/97f57139-0d80-4244-8506-a3bc88edd118" />
 
 
-- Notifikasi Aplikasi
+- **Notifikasi Aplikasi**
 
-  a. Notifikasi Email Sudah Terdaftar
+  a. **Notifikasi Email Sudah Terdaftar**
 
   > <img width="1910" height="946" alt="Screenshot 2026-03-09 041832" src="https://github.com/user-attachments/assets/24ea3899-2ea1-445f-9120-19e89abde3f5" />
 
 
-  b. Notifikasi Persetujuan Syarat dan Ketentuan
+  b. **Notifikasi Persetujuan Syarat dan Ketentuan**
 
   > <img width="1906" height="945" alt="Screenshot 2026-03-09 041813" src="https://github.com/user-attachments/assets/0aa0e534-86e0-4f97-997e-d3f14e4b7bab" />
 
 
-  c. Notifikasi Registrasi Berhasil
+  c. **Notifikasi Registrasi Berhasil**
 
   > <img width="1895" height="939" alt="Screenshot 2026-03-09 041550" src="https://github.com/user-attachments/assets/8cac551a-d185-48e0-92f2-c4b332b116fe" />
 
 
-  d. Notifikasi Validasi Form
+  d. **Notifikasi Validasi Form**
 
   > <img width="1909" height="942" alt="Screenshot 2026-03-09 041853" src="https://github.com/user-attachments/assets/3378bd11-ff0c-47ad-b753-61ac33048513" />
 
 
-  e. Dialog konfirmasi penghapusan data
+  e. **Dialog konfirmasi penghapusan data**
 
   > <img width="1907" height="946" alt="Screenshot 2026-03-09 041659" src="https://github.com/user-attachments/assets/a17ca395-bdc7-4cf1-8576-ef9ed5aa8c0d" />
 
 
-  f. Notifikasi Berhasil Menghapus Data
+  f. **Notifikasi Berhasil Menghapus Data**
 
   > <img width="1904" height="944" alt="Screenshot 2026-03-09 041716" src="https://github.com/user-attachments/assets/832d598d-3271-4791-8e64-8eae5c3e14fe" />
 
